@@ -5,8 +5,8 @@ json
       "name": "AirShou",
       "version": "0.6.0",
       "description": "This is a working edition with recording.",
-      "ipa_url": "https://github.com/username/MyApp/releases/download/1.0.0/MyApp.ipa",
-      "git_repository": "https://github.com/username/MyApp"
+      "ipa_url": "https://github.com/StormieFN/My-personal-iOS-ipa-repo/blob/9c8268c9fec5100aae97917430eb559fb2ef2f39/airshou_v0.6.0.ipa",
+      "git_repository": "https://github.com/StormieFN/My-personal-iOS-ipa-repo"
     }
   ]
 }
