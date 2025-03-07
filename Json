@@ -2,20 +2,10 @@ json
 {
   "apps": [
     {
-      "name": "Genie",
-      "version": "1.0.0",
-      "description": "This is a description of MyApp.",
-      "developer": "Your Name or Company",
-      "support_url": "https://www.yoursupport.com",
+      "name": "AirShou",
+      "version": "0.6.0",
+      "description": "This is a working edition with recording.",
       "ipa_url": "https://github.com/username/MyApp/releases/download/1.0.0/MyApp.ipa",
-      "icon_url": "https://github.com/username/MyApp/raw/main/icon.png",
-      "release_notes": "Initial release of MyApp.",
-      "platform": "iOS",
-      "minimum_ios_version": "12.0",
-      "screenshot_urls": [
-        "https://github.com/username/MyApp/raw/main/screenshot1.png",
-        "https://github.com/username/MyApp/raw/main/screenshot2.png"
-      ],
       "git_repository": "https://github.com/username/MyApp"
     }
   ]
